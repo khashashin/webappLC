@@ -1,0 +1,81 @@
+
+.gallery-title
+{
+    font-size: 36px;
+    color: #000000;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.gallery-title:after {
+    content: "";
+    position: absolute;
+    width: 7.5%;
+    left: 46.5%;
+    height: 45px;
+    border-bottom: 1px solid #5e5e5e;
+}
+.filter-button
+{
+    font-size: 18px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    text-align: center;
+    color: #545454;
+    margin-bottom: 30px;
+    background-image: url("../img/Milkblock.jpg");
+}
+.filter-button:hover
+{
+    font-size: 18px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    text-align: center;
+    color: #000000;
+}
+.btn-default:active .filter-button:active
+{
+    background-color: #42B32F;
+    color: white;
+}
+
+.port-image
+{
+    width: 100%;
+}
+
+.gallery_product
+{
+    margin-bottom: 30px;
+}
+.q1 {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.q2 {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.q3 {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.q4 {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.ue {
+  font-size: 64px;
+  font-weight: bold;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  background-image: url("../img/Milkblock.jpg");
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 0px 8px 0px 8px;
+  color: #b1b3b1;
+}
+a:focus, a:hover {
+    color: #f1f1f1;
+    text-decoration: none;
+}

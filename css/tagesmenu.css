@@ -1,0 +1,67 @@
+hr {
+  margin: 0;
+}
+.wert {
+  display: inline-block;
+  float: left;
+  padding: 5px;
+  margin: 0;
+  border: 1px solid #2f2f2f;
+  border-radius: 5px;
+  margin-right: 3px;
+}
+.table {
+  margin-bottom: 0;
+}
+.mybody {
+  background-color: white;
+}
+.titlerez h3 {
+  margin: 0;
+  padding: 25px 0 20px 0;
+  font-size: 26px;
+  background-image: url("../img/Milkblock.jpg");
+}
+.titlerez p {
+  padding: 15px 15px 0 15px;
+  margin-bottom: 5px;
+  font-size: 15px;
+  text-align: justify;
+}
+.titlerez p:last-child {
+  margin-bottom: 40px;
+}
+.modal-body {
+  margin: 0 5px 0 5px;
+  border: 1px solid #2f2f2f;
+  border-radius: 10px;
+  max-height: 200px;
+  overflow-y: auto;
+}
+.resp {
+  margin: 10px 0 0 0;
+  padding: 0 0 0 5px;
+}
+.resp1 {
+margin: 0;
+padding: 10px 0 0 22px;
+}
+.wert p {
+  margin: 0;
+}
+.icon {
+  height: 20px;
+}
+.tdleft {
+  text-align: left;
+}
+.tdright {
+  text-align: right;
+}
+.table>tbody>tr>th {
+  padding: 10px;
+  width: 105px;
+}
+.fix {
+  background-image: url("../img/Milkblock.jpg");
+}
